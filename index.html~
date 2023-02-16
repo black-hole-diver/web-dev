@@ -3,6 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="keywords" content="HTML, CSS">
+		<meta name="description" content="@wit_pant">
 		<title>My First Web Page</title>
 		<style>
 			img{
@@ -18,8 +20,11 @@
 	</head>
 	<body>
 		<img src="images/myimage.jpg" alt="Mountain pic">
-		<p class="username">@wit_pant</p>
-		<p>I love to study HTML!</p>
+		<p class="username">&lt;@wit_pant&gt;</p>
+		<p>I love to study <strong>HTML</strong>&copy;!</p>
+
+		<h1>Latin text: lorem</h1>
+		<p>&lorem50;</p>
 	</body>
 </html>
 
