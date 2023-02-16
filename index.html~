@@ -5,7 +5,7 @@
 		<style>
 			img{
 				width: 100px;
-				iborder-radius: 10px; /* 50px the image will be round */
+				border-radius: 10px; /* 50px the image will be round */
 				float: left; /* image left of text */
 				margin-right: 10px; /* text to right 10px */
 			}
