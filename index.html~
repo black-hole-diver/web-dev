@@ -24,11 +24,7 @@
 		<p>I love to study <strong>HTML</strong>&copy;!</p>
 
 		<h1>Latin text: lorem</h1>
-		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error cupiditate dolor mollitia commodi
-			possimus et sequi suscipit maiores est quo exercitationem quia quaerat recusandae facere dolores
-			consequuntur iure tenetur repellat eum magnam ipsam necessitatibus,
-			autem rerum. Eligendi,&nbsp;cum incidunt quam saepe facere labore consequatur error veniam, eos vel vero!
-		</p>
+		<p>&lorem50;</p>
 	</body>
 </html>
 
